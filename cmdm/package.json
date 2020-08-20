@@ -1,0 +1,59 @@
+{
+  "_args": [
+    [
+      "cmdm@1.0.0",
+      "D:\\Other\\ASOUL"
+    ]
+  ],
+  "_from": "cmdm@1.0.0",
+  "_id": "cmdm@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-B0IlfJNj1clG5LWOwY75H+JB3fmMNfdKtgyzN8I6C7j8BeiMp1EsLLOTg+x5SBHGobY4H7mN2FfCZk1Si4Sp+Q==",
+  "_location": "/cmdm",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "cmdm@1.0.0",
+    "name": "cmdm",
+    "escapedName": "cmdm",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cmdm/-/cmdm-1.0.0.tgz",
+  "_spec": "1.0.0",
+  "_where": "D:\\Other\\ASOUL",
+  "author": {
+    "name": "clint_flames"
+  },
+  "bugs": {
+    "url": "https://github.com/CFormen3000/cmdm/issues"
+  },
+  "dependencies": {
+    "dream.log": "^1.0.1"
+  },
+  "description": "Cool command manager for bots.",
+  "homepage": "https://github.com/CFormen3000/cmdm#readme",
+  "keywords": [
+    "node",
+    "js",
+    "bot",
+    "command",
+    "manager"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "cmdm",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CFormen3000/cmdm.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}

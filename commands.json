@@ -1,0 +1,27 @@
+{
+	"all": {
+		"private": [
+			"s",
+			"evil"
+		],
+		"public": [
+			"bi",
+			"flip",
+			"help",
+			"inv",
+			"ssp",
+			"wea"
+		]
+	},
+	"guild": {
+		"private": [],
+		"public": [
+			"si",
+			"ui"
+		]
+	},
+	"dm": {
+		"private": [],
+		"public": []
+	}
+}

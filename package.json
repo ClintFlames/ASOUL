@@ -1,0 +1,30 @@
+{
+  "name": "asoul",
+  "version": "2.1.0",
+  "description": "An discord bot on node.js",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Clint",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "dream.log": "^1.0.1",
+    "readline": "^1.3.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ClintFlames/ASOUL.git"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "discord",
+    "bot"
+  ],
+  "bugs": {
+    "url": "https://github.com/ClintFlames/ASOUL/issues"
+  },
+  "homepage": "https://github.com/ClintFlames/ASOUL#readme"
+}
